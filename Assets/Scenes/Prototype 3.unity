@@ -928,6 +928,11 @@ PrefabInstance:
       objectReference: {fileID: 8300000, guid: e7ee25a47d63b46cdaf65480d62b405c, type: 3}
     - target: {fileID: 4588470322419682232, guid: f044bafdb7e27894e9245aa3027dd371,
         type: 3}
+      propertyPath: isOnTheGround
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4588470322419682232, guid: f044bafdb7e27894e9245aa3027dd371,
+        type: 3}
       propertyPath: dirtParticleSystem
       value: 
       objectReference: {fileID: 818348671}
